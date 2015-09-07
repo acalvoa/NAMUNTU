@@ -1,1 +1,3 @@
-SECTOR BACKEND NAMUNTU
+# NAMUNTU-BACK
+
+a [Sails](http://sailsjs.org) application
