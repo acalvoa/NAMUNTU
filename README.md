@@ -1,2 +1,2 @@
-# NAMUNTU
-Repositorio del proyecto NAMUNTU
+REPOSITPORIO DE DOCUMENTOS GIT
+
