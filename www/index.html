@@ -35,16 +35,15 @@
         <div class="face">
             <p class="sesion"><strong>Iniciar sesión con Facebook</strong></p>        
         </div>
-        <div class="twitter">
+        <div class="twitter" onclick="isAvaliable()">
             <p class="sesion"><strong>Iniciar sesión con Twitter</strong></p>        
         </div>
-        <div class="google">
+        <div class="google" onclick="login()">
             <p class="sesion"><strong>Iniciar sesión con Google+</strong></p>        
         </div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
-        <script type="text/javascript">
-            app.initialize();
-        </script>
+        <script type="text/javascript">app.initialize();</script>
+        <script type="text/javascript" src="google.js"></script>
     </body>
 </html>

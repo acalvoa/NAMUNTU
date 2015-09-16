@@ -1,0 +1,29 @@
+{
+    "cordova-plugin-googleplus": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/cordova-plugin-googleplus",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {
+            "REVERSED_CLIENT_ID": "24152334781-iatuv789v4dgphu1a7vp6cnla3l4feh5.apps.googleusercontent.com"
+        }
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-googleplayservices": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-googleplayservices"
+        },
+        "is_top_level": false,
+        "variables": {}
+    }
+}
